@@ -1,6 +1,7 @@
-<h1>Kevin Zehnder : Project Home</h1>
-<br> <br/>
-<h3>Personal Website : chelicerdata.com</h3>
+#Kevin Zehnder : Project Home
+
+##Personal Website : chelicerdata.com
+=======
 
 <p align="center">
   <img src="docs/imgs/job1_resized.jpg">
@@ -10,7 +11,11 @@ Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you 
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">
+<<<<<<< HEAD
   <img src="docs/imgs/dash_sp500.gif">
+=======
+  <img src="docs/imgs/dash_sp500/dash_sp500.gif">
+>>>>>>> caa9ca6d3156350bc657199df28603fc9fe80d49
 </p>
 
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](Hand_Sanitizer_Detector/))
