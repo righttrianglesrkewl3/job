@@ -1,0 +1,138 @@
+<!DOCTYPE html><html lang="en-US"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Just a moment...</title>
+  <style type="text/css">
+    html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+    body {background-color: #ffffff; color: #000000; font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue",Arial, sans-serif; font-size: 16px; line-height: 1.7em;-webkit-font-smoothing: antialiased;}
+    h1 { text-align: center; font-weight:700; margin: 16px 0; font-size: 32px; color:#000000; line-height: 1.25;}
+    p {font-size: 20px; font-weight: 400; margin: 8px 0;}
+    p, .attribution, {text-align: center;}
+    #spinner {margin: 0 auto 30px auto; display: block;}
+    .attribution {margin-top: 32px;}
+    @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+    #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+    #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+    .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+    a { color: #2c7cb0; text-decoration: none; -moz-transition: color 0.15s ease; -o-transition: color 0.15s ease; -webkit-transition: color 0.15s ease; transition: color 0.15s ease; }
+    a:hover{color: #f4a15d}
+    .attribution{font-size: 16px; line-height: 1.5;}
+    .ray_id{display: block; margin-top: 8px;}
+    #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+    #cf-hcaptcha-container { text-align:center;}
+    #cf-hcaptcha-container iframe { display: inline-block;}
+  </style>
+
+    <meta http-equiv="refresh" content="12">
+<script type="text/javascript">
+  //<![CDATA[
+  (function(){
+    
+    window._cf_chl_opt={
+      cvId: "1",
+      cType: "non-interactive",
+      cNounce: "45423",
+      cRay: "601b09a39c493b3f",
+      cHash: "100e0325246ada1",
+      cFPWv: "g",
+      cRq: {
+        ru: "aHR0cHM6Ly93d3cuZmxpZ2h0cmFkYXIyNC5jb20vZGF0YS9haXJwb3J0cy90aXc=",
+        ra: "U2NyYXB5LzIuNC4xICgraHR0cHM6Ly9zY3JhcHkub3JnKQ==",
+        rm: "R0VU",
+        d: "Sem2LI5wmgwbnu8oR2tPYYr5J4q/oHZWPFHAo9WaFu4eTfr1/mfMIOkZSStKOquhkLR36abNsqxHHfcfF9WTz1dewXzHW/nku2p4MwvJn+leXoaJFW/wu6ZqkeeK+3Z4IbWGTcGzgTEzUSfmZiVI3TZ4lqBjSvAYDOEW9UgLGwVothKkKNfMC4y4T04BdckjXO8BQNrtedgVotqHHTOBlpXpZaK1iB6kXZ0ICoR+jmskiTPbED29yTVHpsUL38rA6SI+nDuuxMwNRQ0W5X7D/nhXTMVnLZaDn2hQ97Pp3BRNY7KQuVZ1gQmxjSRrtAlR8rqB2htMK5+F0r0U+aChmB9dQH4Kr6jKgzwz/ICJ0FydsMTkcv/ehNGjaQ8/7DR2qFHcUSddUO4cME+lKVCXnaODOCGU7kENejsVH/CjygbOh6qHPq39ojZ9ffhB2BL+SnooTF3jUz6Lmn5sX3WvRseitsafzXK7Q1U8b31OnA39nerkHBnpaXT3HeliTVds6TYL79QV2tQk9td9CAeXwrjrC4cxHnkrCyubXlw0MVFf2xJkVrGRWWnkarw8EgpbNr599m03VTQNlGh9OXAGa9SLVi612HefQ5iatPdgdAqdlRuU4apT6QV7oKHEaRS8DJDQ5FXL4x4QWkJQAfQQtxQ2t8zL8e7CJFimDekHHbhNjlMFE8LEiAaX9QCF108mTamChctiipN05nsyyw/rbZbe4UbDeJq6soR1zhFUIXNCXJa6TT3SKWTac2auLUgzp3Wn7lE2l+hTIH9aLqt1vHsE3ojM7n2GAsjS34r2Zi8=",
+        t: "MTYwNzk4MTU0OC4wOTQwMDA=",
+        m: "64ENHHjl5cwyy2VpVtFe7LWPqt3W2UWD/SU56OvzbsI=",
+        i1: "4FBkPO0WWf24Dni3hwan1A==",
+        i2: "LQm5K8H8HbHrT2A4Q5WocA==",
+        uh: "ZUCFQbhuSYF3LLC6lTTPUDWmJZJjB7sjo/xpTnrFfeI=",
+        hh: "Vsnjo/J4h7q4ozD7259Hxg4sArFm3Qw777IDrT2mk0s=",
+      }
+    }
+    window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+    b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+    b(function(){
+      var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+      var cookieSupportInfix=cookiesEnabled?'/nocookie':'/cookie';
+      var a = document.getElementById('cf-content');a.style.display = 'block';
+      var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+      var trkjs = isIE ? new Image() : document.createElement('img');
+      trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js"+cookieSupportInfix+"/transparent.gif?ray=601b09a39c493b3f");
+      trkjs.id = "trk_jschal_js";
+      trkjs.setAttribute("alt", "");
+      document.body.appendChild(trkjs);
+      
+      var cpo = document.createElement('script');
+      cpo.type = 'text/javascript';
+      cpo.src = "/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1";
+      var done = false;
+      cpo.onload = cpo.onreadystatechange = function() {
+        if (!done && (!this.readyState || this.readyState === "loaded" || this.readyState === "complete")) {
+          done = true;
+          cpo.onload = cpo.onreadystatechange = null;
+          window._cf_chl_enter()
+        }
+      };
+      document.getElementsByTagName('head')[0].appendChild(cpo);
+    
+    }, false);
+  })();
+  //]]>
+</script>
+
+
+<script type="text/javascript" src="/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1"></script></head>
+<body>
+  <table width="100%" height="100%" cellpadding="20">
+    <tbody><tr>
+      <td align="center" valign="middle">
+          <div class="cf-browser-verification cf-im-under-attack">
+  <noscript>
+    &lt;h1 data-translate="turn_on_js" style="color:#bd2426;"&gt;Please turn JavaScript on and reload the page.&lt;/h1&gt;
+  </noscript>
+  <div id="cf-content" style="display: block;">
+    
+    <div id="cf-bubbles">
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+    </div>
+    <h1><span data-translate="checking_browser">Checking your browser before accessing</span> flightradar24.com.</h1>
+    
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+    <p data-translate="process_is_automatic">This process is automatic. Your browser will redirect to your requested content shortly.</p>
+    <p data-translate="allow_5_secs">Please allow up to 5 seconds…</p>
+  </div>
+   
+  <form class="challenge-form" id="challenge-form" action="/data/airports/tiw?__cf_chl_jschl_tk__=842b963e0a9819d13d96cddb80faf8ce1a572854-1607981548-0-AU47OmH41-Fl0oCH4cQXfnuGeT1pXKr8AFnItIUjAxt6FjC3r3aNI5dbiNCiRQLL18lgvaHBB6LlSNFT7GhQ34a-PQMGLFDVl4hCkn91XnUQRKIqUSATolKSjiVW-0Ykc-58Av8xI5-Y-sjITLPegZdEBfFqvYidaosbsRu-qQ5RTTmpy3ybYV3KQCt--cnDi1ZZfiDlbI08ls3MMKucrkxaD_YwiI86HzCgVsuGhuqpD-Bnl8H_4hl2jJUXslaPcoX-fcBcuruXsoeTEJS1zbwFrKZtvDNdnbsUUePiultzVlHOz3ZeFcbOJs7QZchUQttnpbinDXGvM5ItB8e-1okQyw5HJuoKpgY6btPva7XgOSnf9vZj7OHW-Dyvjr55OQ" method="POST" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="r" value="58315bcd9a1805fe2ba526d9100c3281febeb438-1607981548-0-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">
+    <input type="hidden" value="fb10171fd6d1b40741d11482dc43c55f" id="jschl-vc" name="jschl_vc">
+    <!-- <input type="hidden" value="" id="jschl-vc" name="jschl_vc"/> -->
+    <input type="hidden" name="pass" value="1607981552.094-AyhqBRmUPW">
+    <input type="hidden" id="jschl-answer" name="jschl_answer">
+  </form>
+  
+  <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=601b09a39c493b3f')"> </div>
+</div>
+
+          
+          <div class="attribution">
+            DDoS protection by <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a>
+            <br>
+            <span class="ray_id">Ray ID: <code>601b09a39c493b3f</code></span>
+          </div>
+      </td>
+     
+    </tr>
+  </tbody></table>
+
+
+<img src="/cdn-cgi/images/trace/jschal/js/nocookie/transparent.gif?ray=601b09a39c493b3f" id="trk_jschal_js" alt=""></body></html>
