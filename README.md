@@ -1,5 +1,4 @@
 # Kevin Zehnder : Project Home
-
 ## Personal Website : chelicerdata.com
 
 
@@ -26,7 +25,6 @@ Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you 
 
 ## 1. Hockey Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](Faster_R-CNN_Tensorflow_Object_Detector/))
 
-Use this ***EXCELLENT*** tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
 
 Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
