@@ -22,12 +22,6 @@ Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you 
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/7_sanitizer/usage3.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage4.png "title-2")
 
-Use this EXCELLENT tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
-
-If you are interested in using code directly from this repository please keep in mind that certain files in the "models" folder are too large to upload onto github. Secondly, the Tensorflow Object Detection API only works for me when I use ***tensorflow==1.13.2*** (pip install --upgrade tensorflow==1.13.2) and the ***models version*** that can be found here: https://github.com/tensorflow/models/archive/v1.13.0.zip 
-
-If you want to view a standalone version of the Hand Sanitizer Clorox Wipes Detector I have created a seperate repository to do so here: https://github.com/righttrianglesrkewl3/Hand_Sanitizer_Clorox_Wipe_Detector
-
 ## 1. Hockey Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](Faster_R-CNN_Tensorflow_Object_Detector/))
 
 Use this ***EXCELLENT*** tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
@@ -56,25 +50,6 @@ Fruit Model Metrics              |  Fruit Rank-1/Rank-5 Accuracy
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/metrics_fruit_train_feat_extract_logistic.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/fruit_rank_5.png "title-2")
 
-## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](Sodas_miniVGGnet_Augmentation/))
-
-Soda Bottle Example #1 (class=P.Cherry)            |  Soda Bottle Example #2 (class=MD.Diet)
-:-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/4_soda_miniVGG/1278.jpg "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/1672.jpg "title-2")
-
-Soda Bottle Model Metrics ***with*** Augmentation            |  Soda Bottle Training Plot ***with*** Augmentation
-:-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/4_soda_miniVGG/metrics_soda_augmented.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/vgg16net_augmentation_soda_training_plot.png "training-plot")
-
-Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle Training Plot ***without*** Augmentation
-:-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/4_soda_miniVGG/metrics_soda_vgg16net_no_augmentation_notebook_classification_report.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/soda_vgg16net_no_augmentation_training_plot.png "title-2")
-
-## 5. Boats Transfer Learning -- ResNet50 ([click here to view project code](Boats_ResNet50/))
-
-Model Metrics              
-:-------------------------:|
-![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") 
 
 
 # Citations
