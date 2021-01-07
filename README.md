@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="docs/imgs/job1_resized.jpg">
+  <img src="docs/imgs/job1_resized.jpeg">
 </p>
 
 Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business!
