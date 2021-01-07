@@ -1,0 +1,21 @@
+{% extends "layout.jinja2" %}
+
+{% block pagestyles %}
+
+{% endblock %}
+
+{% block content %}
+  <h1>{{ body }}</h1>
+
+  {% if current_user.is_authenticated %}
+
+    <p>Hi {{ current_user.name }}!</p>
+
+    <h2> You are at debug page </h2>
+    
+    <h3> {{ form }} </h3>
+
+    <a href="{{ url_for('home_blueprint.logout') }}">Log out</a>
+  {% endif %}
+
+{% endblock %}

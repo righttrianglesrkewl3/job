@@ -13,6 +13,12 @@ Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you 
   <img src="docs/imgs/dash_sp500.gif">
 </p>
 
+## 2. Facial Recognition ([Click here to view project code](Presidential_Candidate_Detector/))
+
+<p align="center">
+  <img src="docs/imgs/2_president/candidates_facial_recognition.jpg">
+</p>
+
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](Hand_Sanitizer_Detector/))
 
  Sample prediction #1      |  Sample prediction #2
