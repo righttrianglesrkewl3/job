@@ -1,18 +1,19 @@
-# Kevin Zehnder : Project Home
+<h1>Kevin Zehnder : Project Home</h1>
+<br> <br/>
+<h3>Personal Website : chelicerdata.com</h3>
+
 <p align="center">
-  <img src="docs/jpegs/readme/job1_resized.jpg">
+  <img src="docs/imgs/job1_resized.jpg">
 </p>
 
 Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business!
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">
-  <img src="docs/jpegs/dash_sp500/dash_sp500.gif">
+  <img src="docs/imgs/dash_sp500.gif">
 </p>
 
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](Hand_Sanitizer_Detector/))
-
-***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](Hand_Sanitizer_Detector/images))
 
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
