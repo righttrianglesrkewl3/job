@@ -1,7 +1,7 @@
-#Kevin Zehnder : Project Home
+# Kevin Zehnder : Project Home
 
-##Personal Website : chelicerdata.com
-=======
+## Personal Website : chelicerdata.com
+
 
 <p align="center">
   <img src="docs/imgs/job1_resized.jpg">
