@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="job1_resized.jpeg" style="width:32px;height:32px;">
+  <img src="docs/imgs/job1_resized.jpeg" style="width:32px;height:32px;">
 </p>
 
 <details>
