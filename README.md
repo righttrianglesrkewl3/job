@@ -40,14 +40,7 @@ Sample prediction #1      |  Sample prediction #2
 
  Sample prediction #3      |  Tensorboard 
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/1_tensor/resized_individualImage.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_board_training.png "title-2")
-
-## 5. Facial Recognition ([Click here to view project code](Presidential_Candidate_Detector/))
-
-<p align="center">
-  <img src="docs/imgs/candidates_facial_recognition.jpg">
-</p>
-
+![alt-text-1](docs/imgs/resized_individualImage.png "title-1") | ![alt-text-2](docs/imgs/resized_board_training.png "title-2")
 
 ## 6. scrapy-flightradar24 ([click here to view project code](scrapy-flightradar24/))
 
