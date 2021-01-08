@@ -41,15 +41,15 @@
             </tr>
             <tr>
                 <td>{{ task.content }}</td>
-                <td><img src="docs/imgs/dash_sp500.gif"></td>
-                <td>{{ task.date_created.date1() }}</td>
+                <td>Tensorflow Object Detection Faster-RCNN></td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
                 <td><img src="docs/imgs/dash_sp500.gif"></td>
             </tr>
             <tr>
                 <td>{{ task.content }}</td>
                 <td>{{ task.date_created.date() }}</td>
                 <td>{{ task.date_created.date1() }}</td>
-                <td><img src="docs/imgs/dash_sp500.gif"></td>
+                <td><img src="docs/imgs/.gif"></td>
             </tr>
             <tr>
                 <td>{{ task.content }}</td>
