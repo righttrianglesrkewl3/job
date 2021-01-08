@@ -52,6 +52,6 @@
                 <td>Tensorflow Object Detection Faster-RCNN</td>
                 <td>Custom Object Detector (2 classes)</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
-                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/docs/imgs/usage2.png"></td>
+                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
             </tr>
     </table>
