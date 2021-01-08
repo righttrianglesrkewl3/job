@@ -31,7 +31,7 @@
             <th>thumbnail</th>
         </tr>
 	<tr>
-                <td>Flask-uSWGI-NGINX-Ubuntu : Serving Flask Apps</td>
+                <td>Flask-uSWGI-NGINX-Ubuntu</td>
                 <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
