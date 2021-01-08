@@ -48,4 +48,10 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-tensorflow-objectapi-faster-rcnn</td>
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/resized_ten1.png"></td>
             </tr>
+	    <tr>
+                <td>Tensorflow Object Detection Faster-RCNN</td>
+                <td>Custom Object Detector (2 classes)</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
+                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/docs/imgs/usage2.png"></td>
+            </tr>
     </table>
