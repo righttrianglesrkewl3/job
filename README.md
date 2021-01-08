@@ -5,6 +5,11 @@
 </div>​
 
 <p align="center">
+  <img src="docs/imgs/website.gif">
+</p>
+
+
+<p align="center">
   <img src="docs/imgs/job1_resized.jpeg">
 </p>
 
