@@ -9,6 +9,10 @@
   <img src="docs/imgs/website.gif">
 </p>
 
+<div>
+<h1 style="text-align: center">Selected Projects</h1>
+</div>
+
 ## 1. Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">
   <img src="docs/imgs/dash_sp500.gif">
