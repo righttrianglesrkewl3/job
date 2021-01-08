@@ -1,57 +1,72 @@
-<h1>Kevin Zehnder : Project Home</h1>
-
-<p>
-  Visit my website:
-<a href="https://chelicerdata.com/" title="Personal Website">chelicerdata.com</a>
+<p align="center">
+	<h1 style="text-align: center">
+		Kevin Zehnder Home</h1>
+  		<h4 style="text-align: center">
+		Visit my website: 
+	<a href="https://chelicerdata.com/" title="Personal Website">chelicerdata.com</a>
+		</h4>
 </p>
 
+<p align="center">
+  <img src="job1_resized.jpeg" style="width:32px;height:32px;">
+</p>
+
+<details>
+<summary>Click to expand website demo</summary>
 <p align="center">
   <img src="docs/imgs/website.gif">
 </p>
+</details>
 
-<div>
-<h1 style="text-align: center">Selected Projects</h1>
-</div>
-
-## 1. Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
-<p align="center">
-  <img src="docs/imgs/dash_sp500.gif">
-</p>
-
-## 2. Facial Recognition ([Click here to view project code](Presidential_Candidate_Detector/))
-
-<p align="center">
-  <img src="docs/imgs/candidates_facial_recognition.jpg">
-</p>
-
-## 3. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](cv-tensorflow-objectapi-faster-rcnn/))
-
- Sample prediction #1      |  Sample prediction #2
-:-------------------------:|:-------------------------:
-![alt-text-1](docs/imgs/usage2.png "title-1") | ![alt-text-2](docs/imgs/usage1.png "title-2")
-
- Sample prediction #3      |  Sample prediction #4 
-:-------------------------:|:-------------------------:
-![alt-text-1](docs/imgs/usage3.png "title-1") | ![alt-text-2](docs/imgs/usage4.png "title-2")
-
-## 4. Hockey Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](Faster_R-CNN_Tensorflow_Object_Detector/))
-
-
-Sample prediction #1      |  Sample prediction #2
-:-------------------------:|:-------------------------:
-![alt-text-1](docs/imgs/resized_ten1.png "title-1") | ![alt-text-2](docs/imgs/resized_ten2.png "title-2")
-
- Sample prediction #3      |  Tensorboard 
-:-------------------------:|:-------------------------:
-![alt-text-1](docs/imgs/resized_individualImage.png "title-1") | ![alt-text-2](docs/imgs/resized_board_training.png "title-2")
-
-## 6. scrapy-flightradar24 ([click here to view project code](scrapy-flightradar24/))
-
-
-## 7. practice-flask-admin ([click here to view project code](practice-flask-admin/))
-
-## 8. scrapy-hockeydb ([click here to view project code](scrapy-hockeydb/))
-
-
-## 9. scrapy-newyorktimes-covers ([click here to view project code](scrapy-newyorktimes-covers/))
-
+<div class="content">
+    <h1 style="text-align: center">Selected Projects</h1>
+    <table>
+        <tr>
+            <th>title</th>
+            <th>description</th>
+            <th>code</th>
+            <th>thumbnail</th>
+        </tr>
+	<tr>
+                <td>Flask-uSWGI-NGINX-Ubuntu : Serving Flask Apps</td>
+                <td>Project demonstrates ability to serve Flask applications with uSWGI and NGINX on Ubuntu 20</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
+                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
+            </tr>
+            <tr>
+                <td>Dash SP500 Stocks</td>
+                <td>Simple Plotly-Dash App</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/plotlydash-sp500</td>
+                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
+            </tr>
+            <tr>
+                <td>{{ task.content }}</td>
+                <td><img src="docs/imgs/dash_sp500.gif"></td>
+                <td>{{ task.date_created.date1() }}</td>
+                <td><img src="docs/imgs/dash_sp500.gif"></td>
+            </tr>
+            <tr>
+                <td>{{ task.content }}</td>
+                <td>{{ task.date_created.date() }}</td>
+                <td>{{ task.date_created.date1() }}</td>
+                <td><img src="docs/imgs/dash_sp500.gif"></td>
+            </tr>
+            <tr>
+                <td>{{ task.content }}</td>
+                <td>{{ task.date_created.date() }}</td>
+                <td>{{ task.date_created.date1() }}</td>
+                <td><img src="docs/imgs/dash_sp500.gif"></td>
+            </tr>
+            <tr>
+                <td>{{ task.content }}</td>
+                <td>{{ task.date_created.date() }}</td>
+                <td>{{ task.date_created.date1() }}</td>
+                <td><img src="docs/imgs/dash_sp500.gif"></td>
+            </tr>
+	    <tr>
+                <td>{{ task.content }}</td>
+                <td>{{ task.date_created.date() }}</td>
+                <td>{{ task.date_created.date1() }}</td>
+                <td><img src="docs/imgs/dash_sp500.gif"></td>
+            </tr>
+    </table>
