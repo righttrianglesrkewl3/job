@@ -4,6 +4,7 @@
   		<h4 style="text-align: center">
 		Visit my website: 
 	<a href="https://chelicerdata.com/" title="Personal Website">chelicerdata.com</a>
+		View Resume:
 	<a href="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/KEVIN_ZEHNDER_jan2021_u_git.pdf" title="Resume">Resume</a> 
 		</h4>
 </p>
