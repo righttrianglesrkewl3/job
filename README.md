@@ -56,3 +56,23 @@ Sample prediction #1      |  Sample prediction #2
 
 
 ## 9. scrapy-newyorktimes-covers ([click here to view project code](scrapy-newyorktimes-covers/))
+
+<div class="content">
+    <h1 style="text-align: center">Task Master</h1>
+    <table>
+        <tr>
+            <th>Task</th>
+            <th>Added</th>
+            <th>Actions</th>
+        </tr>
+            <tr>
+                <td>{{ task.content }}</td>
+                <td>{{ task.date_created.date() }}</td>
+                <td>
+                    <a href="/delete/{{task.id}}">Delete</a>
+                    <br>
+                    <a href="/update/{{task.id}}">Update</a>
+                </td>
+            </tr>
+    </table>
+
