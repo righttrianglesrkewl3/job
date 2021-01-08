@@ -1,7 +1,7 @@
 <h1>Kevin Zehnder : Project Home</h1>
 
 <div style="text-align:center">
-  <a src="https://chelicerdata.com/">Personal Website</a>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+  <p Personal Website : www.chelicerdata.com </p>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 </div>​
 
 <p align="center">
