@@ -9,13 +9,6 @@
   <img src="docs/imgs/website.gif" style="width:48px;height:48px;">
 </p>
 
-
-<p align="center">
-  <img src="docs/imgs/job1_resized.jpeg">
-</p>
-
-Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business!
-
 ## 1. Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">
   <img src="docs/imgs/dash_sp500.gif">
