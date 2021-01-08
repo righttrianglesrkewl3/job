@@ -1,5 +1,8 @@
-<h2>Kevin Zehnder : Project Home</h2>
-<p><a href="https://www.chelicerdata.com/">Personal Website</a></p>
+<h1>Kevin Zehnder : Project Home</h1>
+
+<div style="text-align:center">
+  <a href="http://www.chelicerdata.com">Personal Website</a>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+</div>​
 
 <p align="center">
   <img src="docs/imgs/job1_resized.jpeg">
