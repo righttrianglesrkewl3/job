@@ -40,8 +40,8 @@
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
             </tr>
             <tr>
-                <td>{{ task.content }}</td>
                 <td>Tensorflow Object Detection Faster-RCNN</td>
+                <td>Custom Object Detector (3 classes)</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-tensorflow-objectapi-faster-rcnn</td>
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/resized_ten1.png"></td>
             </tr>
