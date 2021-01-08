@@ -41,9 +41,9 @@
             </tr>
             <tr>
                 <td>{{ task.content }}</td>
-                <td>Tensorflow Object Detection Faster-RCNN></td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
-                <td><img src="docs/imgs/dash_sp500.gif"></td>
+                <td>Tensorflow Object Detection Faster-RCNN</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-tensorflow-objectapi-faster-rcnn</td>
+                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/resized_ten1.png"></td>
             </tr>
             <tr>
                 <td>{{ task.content }}</td>
