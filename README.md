@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/imgs/website.gif">
+  <img src="docs/imgs/website.gif" width=400 height=400>
 </p>
 
 ## 1. Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
