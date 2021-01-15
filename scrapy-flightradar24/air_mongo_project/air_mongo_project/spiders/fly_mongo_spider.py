@@ -20,8 +20,8 @@ class FlyMongoSpiderSpider(scrapy.Spider):
 
     def parse(self, response):
         # give login creds here
-        login_data = {'username': 'kevinz1991@gmail.com',
-                        'password': 'Canseco1345'
+        login_data = {'username': 'username goes here',
+                        'password': 'password goes here'
                         }
 
         yield FormRequest(url=self.start_urls[0], formdata=login_data, callback=self.after_login_nav_to_airports) # headers = self.headers
