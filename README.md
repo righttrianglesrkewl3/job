@@ -53,4 +53,10 @@
                 <td>Identifying people wih labeled bounding boxes computer vision</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-president-detector-face</td>
             </tr>
+	    	    <tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/scrapy_results_screenshot.png"></td>
+                <td>Scrapy Large Data Scrape</td>
+                <td>Scraping hockey player data to CSV</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/hockey_ref_project</td>
+            </tr>
     </table>
