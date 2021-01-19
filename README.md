@@ -25,33 +25,33 @@
     <h1 style="text-align: center">Selected Projects</h1>
     <table>
         <tr>
-            <th>title</th>
+            <th>thumbnail</th>
+	    <th>description</th>
             <th>description</th>
             <th>code</th>
-            <th>thumbnail</th>
         </tr>
 	<tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask-uSWGI-NGINX-Ubuntu</td>
                 <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
             </tr>
             <tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
                 <td>Dash SP500 Stocks</td>
                 <td>Simple Plotly-Dash App</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/plotlydash-sp500</td>
-                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
             </tr>
             <tr>
+	        <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/resized_ten1.png"></td>
                 <td>Tensorflow Object Detection Faster-RCNN</td>
                 <td>Custom Object Detector (3 classes)</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-tensorflow-objectapi-faster-rcnn</td>
-                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/resized_ten1.png"></td>
             </tr>
 	    <tr>
+                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
                 <td>Tensorflow Object Detection Faster-RCNN</td>
                 <td>Custom Object Detector (2 classes)</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
-                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
             </tr>
     </table>
