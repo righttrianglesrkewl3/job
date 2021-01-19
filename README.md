@@ -38,9 +38,15 @@
             </tr>
 	    <tr>
 	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
-	    <td>Plotly-Dash Dashboard SP500 Stocks</td>
-	    <td>SP500 Plotly-Dash App Simple</td>
-	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/plotlydash-sp500/</td>
+	    <td>Flask App Around Existing SQLAlchemy Database</td>
+	    <td>Flask App "wrapped" around large database of hockey player statistics scraped using a Scrapy spider with scrapy-splash requests to load javascript before scraping</td>
+	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/hockeyref-top</td>
+	    <tr>
+                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
+                <td>Tensorflow Object Detection Faster-RCNN</td>
+                <td>Custom Object Detector (2 classes)</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
+            </tr>
 	    <tr>
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
                 <td>Tensorflow Object Detection Faster-RCNN</td>
