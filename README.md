@@ -51,6 +51,6 @@
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/candidates_facial_recognition.jpg"></td>
                 <td>Computer Vision Facial Recognition</td>
                 <td>Identifying people wih labeled bounding boxes computer vision</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/candidates_facial_recognition.jpg</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-president-detector-face</td>
             </tr>
     </table>
