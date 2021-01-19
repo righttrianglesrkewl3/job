@@ -43,7 +43,7 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/hockey_ref_project</td>
             </tr>
 	    <tr>
-	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
+	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
 	    <td>Flask-uSWGI-NGINX-Ubuntu</td>
 	    <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
 	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
