@@ -48,12 +48,6 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
             </tr>
 	    <tr>
-                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
-                <td>Tensorflow Object Detection Faster-RCNN</td>
-                <td>Custom Object Detector (2 classes)</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
-            </tr>
-	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/candidates_facial_recognition.jpg"></td>
                 <td>Computer Vision Facial Recognition</td>
                 <td>Identifying people wih labeled bounding boxes computer vision</td>
