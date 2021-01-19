@@ -49,12 +49,6 @@
 	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
             </tr>
             <tr>
-		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
-                <td>Dash SP500 Stocks</td>
-                <td>Simple Plotly-Dash App</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/plotlydash-sp500</td>
-            </tr>
-            <tr>
 	        <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/resized_ten1.png"></td>
                 <td>Tensorflow Object Detection Faster-RCNN</td>
                 <td>Custom Object Detector (3 classes)</td>
