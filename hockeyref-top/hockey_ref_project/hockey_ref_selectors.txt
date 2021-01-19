@@ -1,0 +1,23 @@
+hockey
+
+# starting with one letter to see if I can get this part to work first
+
+
+# alfy name
+In [40]: r.xpath('.//div[2]/div[1]/div[2]/h1/span/text()').get()
+
+###############################################################
+https://www.hockey-reference.com/players/a/
+###############################################################
+
+# anchor div
+div = r.xpath('//div[@id="all_players"]')
+
+
+# all links for one specific letter
+div.xpath('.//div[@id="div_players"]//p//a//@href')
+
+# expected number of players for this letter
+r.xpath('//div[4]/div[2]/div[1]/h2//text()').get()
+Out[98]: '339 Players'
+
