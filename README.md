@@ -34,7 +34,6 @@
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask-uSWGI-NGINX-Ubuntu</td>
                 <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
-                <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
             </tr>
             <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
