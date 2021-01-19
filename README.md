@@ -38,9 +38,9 @@
             </tr>
 	    <tr>
 	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
-	    <td>Flask-uSWGI-NGINX-Ubuntu</td>
-	    <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
-	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
+	    <td>Plotly-Dash Dashboard SP500 Stocks</td>
+	    <td>SP500 Plotly-Dash App Simple</td>
+	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/plotlydash-sp500/</td>
 	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/scrapy_results_screenshot.png"></td>
                 <td>Scrapy-SQLAlchemy-Flask</td>
