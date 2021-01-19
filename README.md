@@ -38,9 +38,9 @@
             </tr>
 	    <tr>
 	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
-	    <td>Flask App Around Existing SQLAlchemy Database</td>
-	    <td>Flask App "wrapped" around large database of hockey player statistics scraped using a Scrapy spider with scrapy-splash requests to load javascript before scraping</td>
-	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/hockeyref-top</td>
+	    <td>Plotly-Dash Dashboard</td>
+	    <td>SP500 Stocks Dashboard</td>
+	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/plotlydash-sp500</td>
 	    <tr>
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
                 <td>Tensorflow Object Detection Faster-RCNN</td>
