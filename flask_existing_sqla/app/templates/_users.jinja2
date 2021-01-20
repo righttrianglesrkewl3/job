@@ -1,0 +1,36 @@
+{% extends "_base.jinja2" %}
+
+
+{% block pagestyles %}
+      <link rel="stylesheet" href="{{ url_for('static', filename='_users.css') }}">
+{% endblock %}
+
+
+{% block content %}
+{% include "_nav_default.jinja2" %}
+
+<div class="container-img">
+<div class="card bg-dark text-white">
+    <img class="card-img" src="{{ url_for('static', filename='rr.jpg') }}" alt="logo" />
+  </div>
+<h1>Flask App From Existing SQLAlchemy Database</h1>
+<h4> Date-Time (PDT) : {{ date }} </h4>
+</div>
+
+<div id="alert1" class="container">
+  <h1 id="noaa-h1">NOAA AIR/SIGMET</h1>
+    <hr>
+      {% for w in weather_data %}
+        <ul id="card">
+          <li>
+            <span class="field-name"><strong>type:</strong></span>
+            <span class="field-value">{{ w.type }}</span>
+          </li>
+          <li>
+            <span class="field-name"><strong>content:</strong></span>
+            <span class="field-value">{{ w.content }}</span>
+          </li>
+        </ul>
+      {% endfor %}
+</div>
+{% endblock %}

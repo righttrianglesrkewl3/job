@@ -1,0 +1,81 @@
+body {
+    background: #e1eaf5;
+    font-family: 'Poppins', sans-serif;
+}
+
+#navvy {
+    margin: 0;
+    color: #475268;
+    text-align: center;
+}
+
+#navvy li {
+    display: inline;
+}
+
+.container-img {
+    background: url("Header Background.jpg");
+    width: 800px;
+    margin: 80px auto 0;
+    box-shadow: 0 0 5px rgba(65,67,144,0.15);
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+  color:red;
+}
+
+h4 {
+  color:red;
+}
+
+#alert1 {
+    background: white;
+    width: 800px;
+    margin: 80px auto 0;
+    box-shadow: 0 0 5px rgba(65,67,144,0.15);
+    padding: 50px;
+}
+
+#alert1 h1 {
+  color:#475268;
+  text-align: center;
+}
+
+#card {
+    padding: 0 0 30px;
+    border-bottom: 1px solid #d9dfe4;
+    margin-bottom: 30px;
+    white-space: normal;
+    width: 100%;
+    height: auto;
+    word-wrap: break-word;
+}
+
+
+#card:last-of-type {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+li {
+    list-style: none;
+    font-weight: 400;
+    white-space: normal;
+    text-overflow: ellipsis;
+    width: 100%;
+    overflow: hidden;
+    color: #475268;
+}
+
+.field-name {
+    font-weight: 500;
+    min-width: 95px;
+    display: inline-block;
+}
+
+.field-value {
+    font-size: .9em;
+}
