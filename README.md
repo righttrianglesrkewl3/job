@@ -40,7 +40,7 @@
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/flask_sqla_existing.png"></td>
                 <td>Flask-Scrapy-Cron Weather Data</td>
                 <td>Flask App "wrapped" around existing SQLAlchemy Database</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-scrapy-cron-weather-app</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask_existing_sqla</td>
             </tr>
 	    <tr>
 	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
