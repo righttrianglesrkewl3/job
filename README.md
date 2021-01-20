@@ -37,6 +37,12 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
             </tr>
 	    <tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/flask_sqla_existing.png"></td>
+                <td>Computer Vision Facial Recognition</td>
+                <td>Identifying people wih labeled bounding boxes computer vision</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-president-detector-face</td>
+            </tr>
+	    <tr>
 	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
 	    <td>Plotly-Dash Dashboard</td>
 	    <td>SP500 Stocks Dashboard</td>
