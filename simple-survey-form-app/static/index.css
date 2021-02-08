@@ -1,0 +1,87 @@
+body {
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #f0f0f0;
+    color:#5f6988;
+}
+
+.navigation-default {
+    margin: 0;
+    padding: 20px 40px;
+    background: white;
+    padding: 30px;
+    width: auto;
+    margin-bottom: 40px;
+    box-shadow: 0 0 5px #bec6cf;
+}
+
+nav a {
+    display: center;
+    margin-right: 30px;
+    color: #597a96;
+    text-decoration: none;
+    font-weight: 600;
+    color: #7d849a;
+}
+
+nav .nav-wrapper .left-nav img{
+  width: 30px;
+  margin-right: 40px;
+}
+
+h1 {
+  display : flex;
+  align-items : center;
+  justify-content : center;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  height:100%;
+  color:#5f6988;
+  line-height: 1;
+  margin: 0 0 10px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: white;
+  transition: 0.3s;
+}
+
+.main-section {
+  display : flex;
+  align-items : center;
+  justify-content : center;
+  text-align: center;
+  padding: 10px 40px;
+}
+
+.show-label-left {
+    float: left;
+    margin: 1px;
+}
+
+.radio {
+  display : flex;
+  align-items : center;
+  justify-content : center;
+  text-align: center;
+}
+
+#center-radio {
+  display : flex;
+  align-items : center;
+  justify-content : center;
+}
+
+.see-all-a {
+  display : flex;
+  align-items : center;
+  justify-content : center;
+  text-align: center;
+}
