@@ -38,7 +38,7 @@
             </tr>
 	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/form_survey1.png"></td>
-                <td>Flask-SQLAlehcmy WTForms Survey</td>
+                <td>Flask-SQLAlchemyWTForms Survey</td>
                 <td>Simple Survey Form using Flask-SQLAlchemy and Flask-WTForms</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/simple-survey-form-app</td>
             </tr>
