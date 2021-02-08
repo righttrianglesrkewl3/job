@@ -37,6 +37,12 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
             </tr>
 	    <tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/form_survey1.png"></td>
+                <td>Flask-SQLAlehcmy WTForms Survey</td>
+                <td>Simple Survey Form using Flask-SQLAlchemy and Flask-WTForms</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/simple-survey-form-app</td>
+            </tr>
+	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/flask_sqla_existing.png"></td>
                 <td>Flask-Scrapy-Cron-NOAA-Weather Data</td>
                 <td>Flask App "wrapped" around existing SQLAlchemy Database</td>
