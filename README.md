@@ -34,35 +34,35 @@
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask-uSWGI-NGINX-Ubuntu</td>
                 <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask-nginx-uwsgi-digital-ocean-webhost</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/flask-nginx-uwsgi-digital-ocean-webhost</td>
             </tr>
 	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/form_survey1.png"></td>
                 <td>Flask-SQLAlchemy and Flask-WTForms Survey</td>
                 <td>Simple Survey Form using Flask-SQLAlchemy and Flask-WTForms</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/simple-survey-form-app</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/simple-survey-form-app</td>
             </tr>
 	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/flask_sqla_existing.png"></td>
                 <td>Flask-Scrapy-Cron-NOAA-Weather Data</td>
                 <td>Flask App "wrapped" around existing SQLAlchemy Database</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/flask_existing_sqla</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/flask_existing_sqla</td>
             </tr>
 	    <tr>
 	    <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/dash_sp500.gif"></td>
 	    <td>Plotly-Dash Dashboard</td>
 	    <td>SP500 Stocks Dashboard</td>
-	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/plotlydash-sp500</td>
+	    <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/plotlydash-sp500</td>
 	    <tr>
                 <td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/usage1.png"></td>
                 <td>Tensorflow Object Detection Faster-RCNN</td>
                 <td>Custom Object Detector (2 classes)</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-sanitizer-detector</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/cv-sanitizer-detector</td>
             </tr>
 	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/candidates_facial_recognition.jpg"></td>
                 <td>Computer Vision Facial Recognition</td>
                 <td>Identifying people with labeled bounding boxes computer vision</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/cv-president-detector-face</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/cv-president-detector-face</td>
             </tr>
     </table>
