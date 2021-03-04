@@ -67,8 +67,7 @@ int main()
     vector<Client> clients;
 
     Bank bank;
-    bank.greetCustomer();
-
+    
     do {
         // display options
         cout << "\n\n1: Add client \n2: Display All" << endl;
@@ -80,13 +79,15 @@ int main()
     // TODO: need to assert correct cin types or program crashes
     switch(ch) {
         case 1: // Add customer
+        bank.greetCustomer();
+        
         cout << "Enter Account Number: ";
         cin >> acno; // need to assert
         cout << "Enter Name: ";
         cin >> name;
         cout << "Enter Balance: ";
         cin >> balance;
-
+        
         clients.push_back(Client (name, float(balance), acno));
         total ++;
         break;
