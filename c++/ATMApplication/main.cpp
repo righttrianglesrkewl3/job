@@ -6,6 +6,7 @@
 using std::vector;
 using namespace std;
 
+// TODO: Add functionaliry for inheritance to "make sense"
 class Bank {
 public:
     string m_Greeting { "Welcome to Kevins Bank" };
