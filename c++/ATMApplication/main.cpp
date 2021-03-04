@@ -68,8 +68,6 @@ int main()
 
     Bank bank;
     bank.greetCustomer();
-    
-
 
     do {
         // display options
