@@ -23,7 +23,7 @@ private:
 
 public:
     // A constructor is called each time an object is created
-    Animal(std::string, double height, double weight);
+    Animal(std::string name, double height, double weight);
 
     // Create an overloaded constructor for when no data is passed
     Animal(); // why not define constructor inside class?
