@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 // operating on original addresses so values stored at those addresses will know
-// declare above main (no defaults)
+// declare above main (initialize defaults in declaration, as opposed to definition)
 void getTotal(int numbers[], int size, int* total);
 
 int main()
