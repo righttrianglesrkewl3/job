@@ -79,10 +79,6 @@ static int YouTube::GetTotalUsers(){
 
 int main()
 {
-    bool TestBool;
-    TestBool = true; // true = 1 for bools
-    cout << TestBool << endl;
-
     YouTube west ("TCP/IP", 2010);
     west.ToString();
 }
