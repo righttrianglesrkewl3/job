@@ -8,10 +8,11 @@ using namespace std;
 
 // TODO: Add functionaliry for inheritance to "make sense"
 class Bank {
-public:
+private:
     string m_Greeting { "Welcome to Kevins Bank" };
     int m_YearsOpen { 20 };
 
+public:
     Bank();
 
     void greetCustomer();
@@ -39,11 +40,11 @@ void Bank::greetCustomer(){
 }
 
 Bank::~Bank(){
-    cout << "Bank object opened since " << this->m_YearsOpen << " has been destroyed.\n";
+    cout << "Bank object opened since " << this->m_YearsOpen << " was destroyed.\n";
 }
 
 class Client : public Bank {
-public:
+private:
     string m_Name;
     float m_Balance = 0;
     int m_AccountNum;
