@@ -2,7 +2,7 @@
 // ATM App
 
 #include <iostream>
-#include <vector> // to get the vector class definition
+#include <vector> 
 using std::vector;
 using namespace std;
 
