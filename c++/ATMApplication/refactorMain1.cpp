@@ -39,7 +39,7 @@ void Bank::greetCustomer(){
 }
 
 Bank::~Bank(){
-    cout << "Bank object opened since " << this->m_YearsOpen << "has been destroyed.\n";
+    cout << "Bank object opened since " << this->m_YearsOpen << " has been destroyed.\n";
 }
 
 class Client : public Bank {
