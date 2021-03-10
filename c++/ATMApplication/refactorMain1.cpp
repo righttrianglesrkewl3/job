@@ -111,7 +111,7 @@ int main()
 
     // TODO: need to assert correct cin types or program crashes
     switch(ch) {
-            case 1: // Add customer
+        case 1: // Add customer
             bank.greetCustomer();
             
             cout << "Enter Account Number: ";
