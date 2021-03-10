@@ -47,14 +47,14 @@ class Client : public Bank {
 private:
     string m_Name;
     float m_Balance = 0;
-    int m_AccountNum;
+    int m_nAccountNum;
 
 public:
     // constructors
-    Client(string sName, float fBalance, int accountNum);
+    Client(string sName, float fBalance, int nAccountNum);
 
     // set all
-    void setInfo (string sName, float fBalance, int accountNum);
+    void setInfo (string sName, float fBalance, int nAccountNum);
 
     void showInfo();
 
@@ -64,17 +64,17 @@ public:
 };
 
 // define the prototype method
-void Client::setInfo(string sName, float fBalance, int accountNum){
+void Client::setInfo(string sName, float fBalance, int nAccountNum){
     this->m_Name = sName;
     this->m_Balance = fBalance;
-    this->m_AccountNum = accountNum;
+    this->m_nAccountNum = nAccountNum;
 }
 
 // define constructor
-Client::Client(string sName, float fBalance, int accountNum){
+Client::Client(string sName, float fBalance, int nAccountNum){
     this->m_Name = sName;
     this->m_Balance = fBalance;
-    this->m_AccountNum = accountNum;
+    this->m_nAccountNum = nAccountNum;
 };
 
 // destructor
@@ -86,7 +86,7 @@ Client::~Client(){
 void Client::showInfo(){
     cout << "Name: " << this->m_Name << endl;
     cout << "Balance: " << this->m_Balance << endl;
-    cout << "Account Number: " << this->m_AccountNum << endl;
+    cout << "Account Number: " << this->m_nAccountNum << endl;
     cout << endl;
 }
 
@@ -127,9 +127,11 @@ int main()
 
         case 2: // Display All
             cout << "Total # of clients = " << total << endl;
-            for (int i=0; i <= clients.size()-1; i++){
-                clients[i].showInfo();
-                // cout << "name" << clients[i].m_Name; how to access class attributes for reference
+            if (total != 0){
+                for (int i=0; i <= clients.size()-1; i++){
+                    clients[i].showInfo();
+                    // cout << "name" << clients[i].m_Name; how to access class attributes for reference
+                }
             }
         break;
         
