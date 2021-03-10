@@ -6,7 +6,7 @@
 using std::vector;
 using namespace std;
 
-// TODO: Add functionaliry for inheritance to "make sense"
+// TODO: Add functionality for inheritance to "make sense"
 class Bank {
 private:
     string m_Greeting { "Welcome to Kevins Bank" };
