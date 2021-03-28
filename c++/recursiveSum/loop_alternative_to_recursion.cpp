@@ -14,7 +14,6 @@ int main()
     int n { 4 };
     int sum { 0 };
 
-    // be careful about brackets with loops -- very easy to be tricked!
     for (int i=m; m <= n; m++){
         cout << m << '\n';
         sum += m;
