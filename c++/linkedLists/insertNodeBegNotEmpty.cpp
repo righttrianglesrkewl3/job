@@ -43,9 +43,17 @@ int main()
 
 
     // create node to be inserted at end
+    Node* insertBeginningNode;
+    insertBeginningNode = new Node();
+    insertBeginningNode->data = 77;
+    insertBeginningNode->link = NULL;
 
-    //// CODEEEEEEEEEEEE
-
+    // address that head WAS pointing to gets assigned to the
+        // link field of the node that is being inserted at 
+            // beginning
+    insertBeginningNode->link = head;
+    head = insertBeginningNode;
+    
 
     cout << endl;
     return 0;
