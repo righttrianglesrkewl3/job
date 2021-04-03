@@ -1,40 +1,38 @@
-// 3-29-21
-// kZ
 #include <iostream>
 #include <vector>
 #include <string>
+#include <cstdlib>
 using namespace std;
 
+vector<int> sortedSquaredArray(vector<int>& arrayToSortRef){
+  // run loops two times: one for walking throught the array
+  // and the other for comparison
+    int size = arrayToSortRef.size();
+    vector<int> outputVector = {};
 
-bool isValidSubsequence(vector<int> array, vector<int> sequence) {
-  // Write your code here.
-    if (sequence.size() > array.size())
-    return false;
+    for (int i = 0; i < arrayToSortRef.size(); i++){
+        int tmpVal = arrayToSortRef[i] * arrayToSortRef[i];
+        cout << "Value = " << arrayToSortRef[i] << endl;
+        cout << "Value Squared = " << (arrayToSortRef[i] * arrayToSortRef[i]) << endl;
+        outputVector.push_back(tmpVal);
+    }
+    for (int step = 0; step < size - 1; ++step) {
+        for (int i = 0; i < size - step - 1; ++i) {
 
-    int findIdx = 0;
-    int total = sequence.size();
-    for (int i = 0; i < array.size(); i++){
-        int arrayVal = array[i];
-        for (int j = findIdx; j < sequence.size(); j++){
-            int sequenceVal  = sequence[findIdx];
-            if (arrayVal == sequenceVal){
-                cout << arrayVal << " " << sequenceVal << endl;
-                findIdx++;
-                break;
+            // To sort in descending order, change > to < in this line.
+            if (outputVector[i] > outputVector[i + 1]) {
+
+            // swap if greater is at the rear position
+            int temp = outputVector[i];
+            outputVector[i] = outputVector[i + 1];
+            outputVector[i + 1] = temp;
             }
         }
     }
-    if (findIdx == total){
-        return true;
-    } else {
-        return false;
-    }
 
+    return outputVector;
 }
-int main()
-{
-    vector<int> array = {5, 1, 22, 25, 6, -1, 8, 10};
-    vector<int> sequence = {1, 6, -1, -1};
 
-    bool checkBool = isValidSubsequence(array, sequence);
-}
+vector<int> oldArray = {3, 2, 1};
+
+vector<int> newArray = sortedSquaredArray(oldArray);
