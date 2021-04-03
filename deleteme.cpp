@@ -1,26 +1,40 @@
+// 3-29-21
+// kZ
+#include <iostream>
 #include <vector>
+#include <string>
 using namespace std;
 
-vector<int> twoNumberSum(vector<int> array, int targetSum) {
+
+bool isValidSubsequence(vector<int> array, vector<int> sequence) {
   // Write your code here.
-	  int arraySize = array.size();
+    if (sequence.size() > array.size())
+    return false;
 
-    int tempSum = 0;
-    bool match = false;
-    vector<int> output = {};
-
-    for (int i = 0; i < arraySize; ++i){
-        if (match == true)
-            break;
-        for (int j = 1; j < arraySize; ++j){
-            tempSum = array[i] + array[j];
-            if ( (tempSum == targetSum ) && (array[i] != array[j]) ){
-                output.push_back(array[i]);
-                output.push_back(array[j]);
-                match = true;
+    int findIdx = 0;
+    int total = sequence.size();
+    for (int i = 0; i < array.size(); i++){
+        int arrayVal = array[i];
+        for (int j = findIdx; j < sequence.size(); j++){
+            int sequenceVal  = sequence[findIdx];
+            if (arrayVal == sequenceVal){
+                cout << arrayVal << " " << sequenceVal << endl;
+                findIdx++;
+                break;
             }
         }
     }
-		return output;
-}
+    if (findIdx == total){
+        return true;
+    } else {
+        return false;
+    }
 
+}
+int main()
+{
+    vector<int> array = {5, 1, 22, 25, 6, -1, 8, 10};
+    vector<int> sequence = {1, 6, -1, -1};
+
+    bool checkBool = isValidSubsequence(array, sequence);
+}
