@@ -1,12 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
 <p align="center">
 	<h1 style="text-align: center">
 		Kevin Zehnder Home</h1>
   		<h4 style="text-align: center">
-		Visit my website: 
+		Visit my website:
 	<a href="https://chelicerdata.com/" title="Personal Website">chelicerdata.com</a>
 	<br>
 		View Resume:
-	<a href="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/KEVIN_ZEHNDER_jan2021_u_git.pdf" title="Resume">Resume</a> 
+	<a href="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/KEVIN_ZEHNDER_jan2021_u_git.pdf" title="Resume">Resume</a>
 		</h4>
 </p>
 
@@ -30,12 +38,18 @@
             <th>description</th>
             <th>code</th>
         </tr>
-	<tr>
+    <tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/python/steganographyApp/USAGEdemo1.png"></td>
+                <td>Stegnanography App</td>
+                <td>App which hides secret data inside ordinary, non-secret files</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/steganographyApp</td>
+    </tr>
+	   <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask-uSWGI-NGINX-Ubuntu</td>
                 <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/flask-nginx-uwsgi-digital-ocean-webhost</td>
-            </tr>
+      </tr>
 	    <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/BANK_DEMO1.png"></td>
                 <td>C++ ATM App</td>
@@ -72,3 +86,6 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/cv-president-detector-face</td>
             </tr>
     </table>
+
+  </body>
+</html
