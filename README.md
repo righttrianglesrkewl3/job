@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
 <p align="center">
 	<h1 style="text-align: center">
 		Kevin Zehnder Home</h1>
@@ -39,7 +47,7 @@
 	   <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask-uSWGI-NGINX-Ubuntu</td>
-                <td>Serving Flask applications with uWSGI and NGINX on Ubuntu 20</td>
+                <td>Serving Flask applications from Digitial Ocean Droplet</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/flask-nginx-uwsgi-digital-ocean-webhost</td>
       </tr>
 	    <tr>
