@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-
 <p align="center">
 	<h1 style="text-align: center">
 		Kevin Zehnder Home</h1>
