@@ -33,7 +33,7 @@
     <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/homepageSten1.png"></td>
                 <td>*IN PROGRESS* Stegnanography App</td>
-                <td>App which hides secret data inside ordinary, non-secret files</td>
+                <td>*IN PROGRESS* App which hides secret data inside ordinary, non-secret files</td>
                 <td>*IN PROGRESS* https://github.com/righttrianglesrkewl3/job/tree/main/python/steganographyApp</td>
     </tr>
 	   <tr>
