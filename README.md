@@ -37,24 +37,24 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/flask-nginx-uwsgi-digital-ocean-webhost</td>
          </tr>
 	 <tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/homepageSten1.png"></td>
+                <td>*IN PROGRESS* Stegnanography App</td>
+                <td>*IN PROGRESS* App which hides secret data inside ordinary, non-secret files</td>
+                <td>*IN PROGRESS* https://github.com/righttrianglesrkewl3/job/tree/main/python/steganographyApp</td>
+    	 </tr>
+	 <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/BANK_DEMO1.png"></td>
                 <td>C++ ATM App</td>
                 <td>Simple C++ ATM Application</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/c%2B%2B/ATMApplication</td>
           </tr>
 	  <tr>
-		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/homepageSten1.png"></td>
-                <td>*IN PROGRESS* Stegnanography App</td>
-                <td>*IN PROGRESS* App which hides secret data inside ordinary, non-secret files</td>
-                <td>*IN PROGRESS* https://github.com/righttrianglesrkewl3/job/tree/main/python/steganographyApp</td>
-    	   </tr>
-	   <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/form_survey1.png"></td>
                 <td>Flask-SQLAlchemy and Flask-WTForms Survey</td>
                 <td>Simple Survey Form using Flask-SQLAlchemy and Flask-WTForms</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/simple-survey-form-app</td>
-            </tr>
-	    <tr>
+           </tr>
+	   <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/flask_sqla_existing.png"></td>
                 <td>Flask-Scrapy-Cron-NOAA-Weather Data</td>
                 <td>Flask App "wrapped" around existing SQLAlchemy Database</td>
