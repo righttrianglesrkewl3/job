@@ -90,41 +90,6 @@ def messageToBinary(message):
     else:
         raise TypeError("Input type is not supported\n")
 
-
-# Encode data into image
-def encode_text():
-    image_name = input("Enter image name (with extension): ")
-    image0 = cv2.imread(image_name) # Read the input image using OpenCV-Python.
-    #It is a library of Python bindings designed to solve computer vision problems.
-
-    #details of the image
-    print("The shape of the image is: ",image0.shape) #check the shape of image to calculate the number of bytes in it
-    print("The original image: ")
-    resized_image = cv2.resize(image0, (500, 500)) #resize the image as per your requirement
-    img = Image.open(image_name)
-    img.show()
-
-    data = input("Enter data to be encoded: ")
-    if (len(data) == 0):
-        raise ValueError('Data is empty\n')
-
-    filename = input("Enter the name of new encoded image (with extension): ")
-    encoded_image = hideData(image0, data) # call the hideData function to hide the secret message into the selected image
-    cv2.imwrite(filename, encoded_image)
-
-def decode_text():
-    # read the image that contains the hidden image
-    image_name = input("Enter the name of the steganographed image that you want to decode (with extension): ")
-    image0 = cv2.imread(image_name) #read the image using cv2.imread()
-
-    print("The Steganographed image: ")
-    resized_image = cv2.resize(image0, (500, 500))  #resize the original image as per your requirement
-    img = Image.open(image_name)
-    img.show()
-
-    text = showData(image0)
-    return text
-
 def my_decode_text(filename):
     # write encoded image to disk
     if filename.startswith('encoded_'):
@@ -135,11 +100,6 @@ def my_decode_text(filename):
     image_with_message = cv2.imread(os.path.join(DOWNLOAD_PATH, encoded_filepath))
     print(f"Image with message filename = {encoded_filepath}")
 
-    # # read the image that contains the hidden image
-    # image0 = cv2.imread(filename) #read the image using cv2.imread()
-    # resized_image = cv2.resize(image0, (500, 500))  #resize the original image as per your requirement
-
-    #img = Image.open(image_with_message)
     text = showData(image_with_message)
     return text
 
@@ -154,10 +114,3 @@ def my_encode_text(filename, message):
     # write encoded image to disk
     encoded_filepath = 'encoded_' + filename
     cv2.imwrite(os.path.join(DOWNLOAD_PATH, encoded_filepath), processed_img)
-
-    # return render_template('_show_filename.html', img_filename=img_filename, encoded_filepath=encoded_filepath)
-
-#TODO: write decode function for decode tab
-# def decode(filename):
-#
-#     return decoded_image
