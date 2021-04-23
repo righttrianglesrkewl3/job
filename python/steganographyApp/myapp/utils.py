@@ -96,7 +96,7 @@ def my_decode_text(filename):
         encoded_filepath = filename
     else:
         encoded_filepath = 'encoded_' + filename
-    #encoded_filepath = 'encoded_' + filename
+
     image_with_message = cv2.imread(os.path.join(DOWNLOAD_PATH, encoded_filepath))
     print(f"Image with message filename = {encoded_filepath}")
 
