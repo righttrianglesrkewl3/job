@@ -20,7 +20,6 @@ def create_app():
         from .utils import validate_image, my_decode_text, my_encode_text
 
         # Register Blueprints
-        # app.register_blueprint(admin_routes.admin_bp)
         app.register_blueprint(main_views.main)
 
         # Create database tables for our data models
