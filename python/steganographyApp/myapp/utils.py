@@ -105,10 +105,6 @@ def my_decode_text(filename):
 
 def my_encode_text(filename, message):
     originalImage = cv2.imread(os.path.join(UPLOAD_PATH, filename)).copy()
-
-    # NOTE: process aka "encode right here"
-    # message = message # will need this for encrypt part
-    #processed_img = cv2.cvtColor(originalImage, cv2.COLOR_BGR2GRAY)
     processed_img = hideData(originalImage, message)
 
     # write encoded image to disk
