@@ -10,8 +10,6 @@ from werkzeug.utils import secure_filename
 from myapp.main.main_forms import UploadForm
 from myapp.models import db, ImageFile
 from myapp.utils import validate_image, my_decode_text, my_encode_text
-# UPLOAD_PATH = os.path.dirname(os.path.abspath(os.path(__file__))) + '/uploads/'
-# DOWNLOAD_PATH = os.path.dirname(os.path.abspath(os.path(__file__))) + '/downloads/'
 
 main = Blueprint('main', __name__)
 
