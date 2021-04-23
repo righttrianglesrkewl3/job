@@ -1,7 +1,3 @@
-"""
-Database models.
---> Reminder: One (Voter) to Many (Response)
-"""
 from flask_login import UserMixin
 from werkzeug.security import check_password_hash, generate_password_hash
 
@@ -16,8 +12,6 @@ class ImageFile(db.Model):
     user = db.Column(db.String(300))
     text = db.Column(db.String(300))
     filename = db.Column(db.String(300), index=True)
-    # mod_filename = db.Column(db.String(300), index=True)
-
 
     def __repr__(self):
         return f'{self.id}, {self.user}, {self.text}, {self.filename}'
