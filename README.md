@@ -31,6 +31,12 @@
             <th>code</th>
         </tr>
 	<tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/todoAppUSAGE1.png"></td>
+                <td>FLask CRUD ToDo App</td>
+                <td>Simple CRUD app</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/todoApp</td>
+         </tr>
+	<tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask w/ Plotly-Dash Personal Website</td>
                 <td>Serving Flask applications from Digitial Ocean Droplet</td>
