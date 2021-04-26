@@ -32,7 +32,7 @@
         </tr>
 	<tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/todoAppUSAGE1.png"></td>
-                <td>FLask CRUD ToDo App</td>
+                <td>Flask CRUD ToDo App</td>
                 <td>Simple CRUD app</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/todoApp</td>
          </tr>
