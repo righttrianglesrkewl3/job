@@ -32,8 +32,8 @@
         </tr>
 	<tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/todoAppUSAGE1.png"></td>
-                <td>Flask CRUD ToDo App</td>
-                <td>Simple CRUD app</td>
+                <td>Flask CRUD Todo App</td>
+                <td>App allows user to easily dump data from Flask-SQLAlchemy into a CSV file</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/todoApp</td>
          </tr>
 	<tr>
