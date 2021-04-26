@@ -39,7 +39,7 @@
 	<tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask w/ Plotly-Dash Personal Website</td>
-                <td>Serving Flask applications from Digitial Ocean Droplet</td>
+                <td>How To Serve Flask Applications with uWSGI and Nginx on Digital Ocean Droplet</td>
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/flask-nginx-uwsgi-digital-ocean-webhost</td>
          </tr>
 	 <tr>
