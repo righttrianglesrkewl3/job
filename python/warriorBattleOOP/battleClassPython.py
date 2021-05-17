@@ -2,10 +2,6 @@ import random
 import numpy as np
 
 class Warrior():
-
-    # can be accessed by any instance of Warrior class
-    nickname = "Battle Royale Fighter"
-
     def __init__(self, name, health, attackMax, blockMax):
         self.name = name
         self.health = health
@@ -25,10 +21,6 @@ class Warrior():
         return blockAmount
 
 class Battle():
-
-    # can be accessed by any instance of a Battle object
-    alias = "Battle Royale!"
-
     def __init__(self, warriorA, warriorB):
         self.warriorA  = warriorA
         self.warriorB = warriorB
