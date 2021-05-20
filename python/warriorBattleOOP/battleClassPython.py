@@ -1,7 +1,7 @@
 import random
 import numpy as np
 
-class Warrior():
+class Warrior:
     def __init__(self, name, health, attackMax, blockMax):
         self.name = name
         self.health = health
@@ -20,7 +20,7 @@ class Warrior():
         blockAmount = round ( (randomValue / self.blockMax) * 100)
         return blockAmount
 
-class Battle():
+class Battle:
     def __init__(self, warriorA, warriorB):
         self.warriorA  = warriorA
         self.warriorB = warriorB
