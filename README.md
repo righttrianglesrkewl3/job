@@ -31,11 +31,11 @@
             <th>code</th>
         </tr>
 	<tr>
-		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/todoAppUSAGE1.png"></td>
-                <td>Flask CRUD Todo App</td>
-                <td>App allows user to easily dump data from Flask-SQLAlchemy into a CSV file</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/todoApp</td>
-         </tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/homepageSten1.png"></td>
+                <td>Stegnanography App</td>
+                <td>App which hides secret data inside ordinary, non-secret files</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/steganographyApp</td>
+    	</tr>
 	<tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
                 <td>Flask w/ Plotly-Dash Personal Website</td>
@@ -43,11 +43,11 @@
                 <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/flask-nginx-uwsgi-digital-ocean-webhost</td>
          </tr>
 	 <tr>
-		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/homepageSten1.png"></td>
-                <td>Stegnanography App</td>
-                <td>App which hides secret data inside ordinary, non-secret files</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/steganographyApp</td>
-    	 </tr>
+		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/todoAppUSAGE1.png"></td>
+                <td>Flask CRUD Todo App</td>
+                <td>App allows user to easily dump data from Flask-SQLAlchemy into a CSV file</td>
+                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/todoApp</td>
+         </tr>
 	 <tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/BANK_DEMO1.png"></td>
                 <td>C++ ATM App</td>
