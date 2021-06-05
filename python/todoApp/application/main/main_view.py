@@ -47,20 +47,4 @@ def save_to_disk():
     return flask_excel.make_response_from_array([[1,2], [3, 4]], "csv",
                                           file_name="export_data")
 
-"""
-Use as a reference for "add" route
-@main.route('/uploads/<filename>')
-def upload(filename):
-    return send_from_directory(current_app.config['UPLOAD_PATH'], filename)
-"""
-
-# @app.route("/", methods=['GET'])
-# def export_records():
-#     return render_template('export.html')
-
-# @app.route('/save_to_disk')
-# def save_to_disk():
-#     return flask_excel.make_response_from_array([[1,2], [3, 4]], "csv",
-#                                           file_name="export_data")
-
 
