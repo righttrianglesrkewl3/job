@@ -1,8 +1,11 @@
 # 6-7-21
 # kZ
 
-# This program contains two seperate implmentations of functions which check if an input string is a palindrome -- aka it is spelled the same forwards and backwards (e.g. "hannah")
-
+"""Given the string, check if it is a palindrome.
+Example:
+- For inputString = "aabaa", the output should be checkPalindrome(inputString) = true;
+- For inputString = "abac", the output should be checkPalindrome(inputString) = false;
+- For inputString = "a", the output should be checkPalindrome(inputString) = true."""
 
 """Method 1 to check if Palindrome"""
 def checkPalindromeMethod1(inputString):
