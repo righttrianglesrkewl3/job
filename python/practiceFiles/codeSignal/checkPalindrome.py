@@ -15,9 +15,9 @@ def checkPalindromeMethod1(inputString):
 
 """Method 2 to check if Palindrome"""
 def checkPalindromeMethod2(inputString):
-    # remove white space and lowercase the input string
-    inputString = inputString.replace(" ", "")
+    # lowercase the input string and remove white space
     inputString = inputString.lower()
+    inputString = inputString.replace(" ", "")
 
     # get reverse of input string
     reversedInputString = inputString[::-1]
