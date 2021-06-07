@@ -38,7 +38,7 @@ print(adjacentElementsProduct(inputArray))
 
 
 """
-Non Optimal solution that just shows a cool way to find the max key in a dictionary
+Below is a *NON-Optimal* solution that just shows a cool way to find the max key in a dictionary
 
 def adjacentElementsProducts(inputArray):
     counts = {}
