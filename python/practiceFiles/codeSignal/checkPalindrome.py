@@ -17,17 +17,15 @@ def checkPalindromeMethod2(inputString):
     inputString = inputString.lower()
 
     # get reverse of input string
-    reverseInputString = inputString[::-1]
+    reversedInputString = inputString[::-1]
 
-    # check if input and reversed input are the same (palindrome)
-    if (inputString == reverseInputString):
-        return True
-    else:
-        return False
+    # if input and reversed input are same (palindrome==true)
+    return (inputString == reversedInputString)
 
 
 """---------------------------------------------------"""
-""" Tests for checkPalindromeMethod1 -- Method 1 """
+""" Tests for checkPalindromeMethod2 -- Method 1      """
+"""---------------------------------------------------"""
 
 inputString = "hannah"
 check1 = checkPalindromeMethod1(inputString)
@@ -46,8 +44,9 @@ for name in names:
         print(f"{name} is not a palindrome.")
 
 """---------------------------------------------------"""
+""" Tests for checkPalindromeMethod2 -- Method 2      """
+"""---------------------------------------------------"""
 
-""" Tests for checkPalindromeMethod2 -- Method 2 """
 inputString = "hannah"
 check1 = checkPalindromeMethod2(inputString)
 print(check1)
@@ -59,9 +58,11 @@ print(check2)
 # iterate over names and check if they are palindromes
 names = ["hannah", "kevin"]
 for name in names:
-    if checkPalindromeMethod2(inputString) == True:
+    if checkPalindromeMethod2(name):
         print(f"{name} is a palindrome.")
     else:
         print(f"{name} is not a palindrome")
 
+"""---------------------------------------------------"""
+"""             End of program                        """
 """---------------------------------------------------"""
