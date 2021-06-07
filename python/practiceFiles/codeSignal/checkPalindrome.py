@@ -24,7 +24,7 @@ def checkPalindromeMethod2(inputString):
 
 
 """---------------------------------------------------"""
-""" Tests for checkPalindromeMethod2 -- Method 1      """
+""" Tests for checkPalindromeMethod1 -- Method 1      """
 """---------------------------------------------------"""
 
 inputString = "hannah"
