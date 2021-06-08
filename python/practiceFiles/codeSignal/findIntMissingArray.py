@@ -20,3 +20,12 @@ for i in range(len(oneToHundredFull)):
         missingNum.append(oneToHundredFull[i])
 
 print(missingNum)
+
+########################### Refactored Version of Above ###########################
+
+oneToHundredMissing = [i for i in range(1, 101) if i != 5]
+def findMissingInt(oneToHundredMissing):
+    oneToHundredFull = [i for i in range(1, 101)]
+    return [i for i in oneToHundredFull if i not in oneToHundredMissing]
+
+print(f"fucntion output 1: {find(oneToHundredMissing)}")
