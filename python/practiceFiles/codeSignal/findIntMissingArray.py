@@ -28,4 +28,4 @@ def findMissingInt(oneToHundredMissing):
     oneToHundredFull = [i for i in range(1, 101)]
     return [i for i in oneToHundredFull if i not in oneToHundredMissing]
 
-print(f"fucntion output 1: {find(oneToHundredMissing)}")
+print(f"fucntion output 1: {findMissingInt(oneToHundredMissing)}")
