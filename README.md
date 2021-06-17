@@ -1,6 +1,6 @@
 <p align="center">
 	<h1 style="text-align: center">
-		Kevin Zehnder Home</h1>
+		Kevin Zehnder's Projects</h1>
 
 👀 View my portfolio here: <a href="https://www.meet-kevin-z.com">Portfolio</a>
 
