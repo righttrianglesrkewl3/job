@@ -4,8 +4,6 @@ from flask import Blueprint, render_template, make_response, redirect, url_for, 
 from myapp.main.main_forms import SurveyForm
 from myapp.models import Voter, Response, db
 
-# "inverse" : get comments from a user db.session.query(Comment).filter_by(voter_id=kz.id).all()
-
 main = Blueprint('main', __name__)
 
 @main.route('/', methods=['GET', 'POST'])
