@@ -1,3 +1,7 @@
+<p align="center">
+	<h1 style="text-align: center">
+		Kevin Zehnder Home</h1>
+
 👀 View my portfolio here: <a href="https://www.meet-kevin-z.com">Portfolio</a>
 
 📝 Check my resume out here: <a href="https://drive.google.com/file/d/107A8p3SOTXoo7KuSRtTLksmROh8j_RAr/view">Resume</a>
