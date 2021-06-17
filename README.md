@@ -1,16 +1,3 @@
-<p align="center">
-	<h1 style="text-align: center">
-		Kevin Zehnder Home</h1>
-  		<h4 style="text-align: center">
-		View my portfolio:
-	<a href="https://meet-kevin-z.com/" title="Portfolio">Portfolio</a>
-	<br>
-		View Resume:
-	<a href="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/kevinzehnderResumex1.pdf" title="Resume">Resume</a>
-		</h4>
-</p>
-
-
 👀 View my portfolio here: <a href="https://www.meet-kevin-z.com">Portfolio</a>
 
 📝 Check my resume out here: <a href="https://drive.google.com/file/d/107A8p3SOTXoo7KuSRtTLksmROh8j_RAr/view">Resume</a>
