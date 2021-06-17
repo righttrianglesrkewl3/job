@@ -18,7 +18,6 @@ class Config:
     UPLOAD_PATH = environ.get('UPLOAD_PATH')
     DOWNLOAD_PATH = environ.get('DOWNLOAD_PATH')
 
-
     # Upload Extentions
     UPLOAD_EXTENSIONS = environ.get('UPLOAD_EXTENSIONS')
 
