@@ -10,6 +10,15 @@
 		</h4>
 </p>
 
+
+👀 View my portfolio here: <a href="https://www.meet-kevin-z.com">Portfolio</a>
+
+📝 Check my resume out here: <a href="https://drive.google.com/file/d/107A8p3SOTXoo7KuSRtTLksmROh8j_RAr/view">Resume</a>
+
+💬 Connect with me here: <a href="https://www.linkedin.com/in/meet-kevin-zehnder/"> LinkedIn</a>
+
+📧 Email me here: kjzehnder3@gmail.com
+
 <p align="center">
   <img src="docs/imgs/job1_resized.jpeg" style="width:32px;height:32px;">
 </p>
