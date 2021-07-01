@@ -28,7 +28,6 @@ class Battle:
         self.damage2warriorB = 0
         self.count = 0
         self.temp = None
-        # TODO: self.stats = {} for tabulate
 
     def swapWarriors(self):
         self.temp = self.warriorA
