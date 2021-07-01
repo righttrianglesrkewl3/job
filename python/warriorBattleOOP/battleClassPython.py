@@ -8,7 +8,6 @@ class Warrior:
         self.attackMax = attackMax
         self.blockMax = blockMax
         self.damage = 0
-        # TODO: self.stats = {} for tabulate
 
     def attack(self):
         randomValue = random.randrange(1, 5, 1)
