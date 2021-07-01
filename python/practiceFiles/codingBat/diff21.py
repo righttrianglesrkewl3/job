@@ -7,12 +7,14 @@ diff21(21) → 0
 """
 
 # absolute value = distance away from zero
+# remember:
+# difference between n and 21 means..... 21 - n
 
 def diff21(n):
     if n > 21:
-       return abs(n - 21) * 2
+       return abs(21 -n) * 2
     else:
-        return abs(n - 21)
+        return abs(21- n)
 
 print(diff21(19))
 print(diff21(10))
