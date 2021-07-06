@@ -21,7 +21,6 @@ def missing_char2(some_string, n):
     back = some_string[n+1:]
     return front + back
 
-
 print(missing_char2('kitten', 1))
 print(missing_char2('kitten', 0))
 print(missing_char2('kitten', 4))
