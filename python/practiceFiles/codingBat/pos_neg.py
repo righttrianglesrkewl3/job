@@ -6,11 +6,7 @@ pos_neg(-1, 1, False) → True
 pos_neg(-4, -5, True) → True
 """
 
-
-# if negative == True:
-# cond1 = (a < 0 and b < 0)
-#   return cond1
-
+# doesnt pass all tests (keeping for reference)
 def pos_neg(a, b, negative=False):
     if negative == True:
         #return (a < 0 and b < 0)
@@ -23,7 +19,7 @@ print(pos_neg(1, -1, False))
 print(pos_neg(-1, 1, False))
 print(pos_neg(-4, -5, True))
 
-
+# doesnt pass all tests (keeping for reference)
 def pos_neg_refactor1(a, b, negative=False):
     if negative == True:
         return (a < 0 and b < 0)
@@ -34,7 +30,7 @@ print(pos_neg_refactor1(1, -1, False))
 print(pos_neg_refactor1(-1, 1, False))
 print(pos_neg_refactor1(-4, -5, True))
 
-
+# passes all tests
 def pos_neg_refactor2(a, b, negative):
   if negative:
     return (a < 0 and b < 0)
