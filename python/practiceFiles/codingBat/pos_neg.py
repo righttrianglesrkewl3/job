@@ -24,7 +24,6 @@ def pos_neg_refactor1(a, b, negative=False):
         return (a < 0 and b < 0)
     return ((a > 0) or (b < 0)) or ((a < 0) or (b > 0))
 
-
 print(pos_neg_refactor1(1, -1, False))
 print(pos_neg_refactor1(-1, 1, False))
 print(pos_neg_refactor1(-4, -5, True))
