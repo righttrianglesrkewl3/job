@@ -9,7 +9,6 @@ pos_neg(-4, -5, True) → True
 # doesnt pass all tests (keeping for reference)
 def pos_neg(a, b, negative=False):
     if negative == True:
-        #return (a < 0 and b < 0)
         cond1 = (a < 0 and b < 0)
         return cond1
     elif ((a > 0) or (b < 0)) or ((a < 0) or (b > 0)):
