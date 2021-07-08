@@ -31,10 +31,10 @@
             <th>code</th>
         </tr>
 	<tr>
-		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/homepageSten1.png"></td>
+		<td><img src="https://github.com/k-zehnder/job/blob/main/docs/imgs/homepageSten1.png"></td>
                 <td>Stegnanography App</td>
                 <td>App which hides secret data inside ordinary, non-secret files</td>
-                <td>https://github.com/righttrianglesrkewl3/job/tree/main/python/steganographyApp</td>
+                <td>https://github.com/k-zehnder/job/tree/main/python/steganographyApp</td>
     	</tr>
 	<tr>
 		<td><img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/website.gif"></td>
