@@ -4,7 +4,7 @@
 
 👀 View my portfolio here: <a href="https://www.meet-kevin-z.com">Portfolio</a>
 
-📝 Check my resume out here: <a href="https://docs.google.com/document/d/1aQ8PvnHuDNOeEBgaoAXnC720pg4OzhIL4FWX4xzQ95Q/edit?usp=sharing">Resume</a>
+📝 Check my resume out here: <a href="https://bit.ly/3qTYTEf">Resume</a>
 
 💬 Connect with me here: <a href="https://www.linkedin.com/in/meet-kevin-zehnder/"> LinkedIn</a>
 
